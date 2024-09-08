@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shadab
 - 👀 I’m interested in ...embedded coding & Photography
-- 🌱 I’m currently learning ...c++
+- 🌱 I’m currently learning ...c++ & RUST
 - 💞️ I’m looking to collaborate on ...IOT & AI
 - 📫 How to reach me ...
 
